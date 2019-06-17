@@ -1,5 +1,4 @@
-var str ='Hello';
-var str2 = 'world';
-var str3='lalala'
-var lalala='str';
-var hw = str.concat(str2)
+var Hello ='Hello';
+var world = 'world';
+var lalala='lalala';
+var hw = Hello.concat(world)
